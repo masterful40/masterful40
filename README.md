@@ -1,4 +1,4 @@
-- 👋 Hi, my name is April and I'm a 19 year old data science student.
+- 👋 Hi, my name is April (she/they) and I'm a 19 year old data science student
 - 👀 I’m interested in sports, video games, chess, math, and music
 - 📫 If you want to talk to me you can message @masterful40 on discord
 
